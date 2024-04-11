@@ -30,15 +30,18 @@ Francisco Costa
 - Leonardo de Souza Machado
 - Marcos Antônio da Silva Peixinho
 - Renato Eudes Nascimento Botelho
-- Nicole Ferreira Da Silva (honorária)
+- Nicole Ferreira Da Silva
 
 ### Equipes Envolvidas
 Não especificado.
 
-### Professores Responsáveis
-- Prof. Ms. Eng. Edson Quedas Moreno – Engenharia de Software II
-- Profa. Ms. Sirley Ambrosia Vitorio Addão - Programação Orientada a Objetos I
+### Professor responsavel
 - Prof. Salatiel Luz Marinho - Projeto De Interface com Usuário
+  
+### Professores Auxiliares
+- Prof. Ms. Eng. Edson Quedas Moreno – Engenharia de Software II
+- Prof. Eduardo Seige - Análise de projetos orientados a Objetos 
+- Prof. Wellington Fernando - administração de banco de dados 
 
 ### Riscos do Projeto
 - Desafios na Usabilidade
